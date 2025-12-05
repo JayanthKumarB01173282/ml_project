@@ -1,0 +1,2 @@
+Model,Params,MADs,Infer_ms,Train_ms,Memory_MB,FinalTrainDice,FinalValDice,FinalValIoU,FinalValAcc
+UNet_Oriented1D_Colab,960884,4588568576,34.26557541,88.47466946,510.0874023,0.061143423,0.686907112,0.040262591,0.839195821

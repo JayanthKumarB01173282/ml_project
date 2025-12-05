@@ -1,0 +1,16 @@
+# Ignore model weights
+*.pth
+
+# Ignore logs and temp files
+*.log
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore datasets
+*.png
+*.jpg
+*.jpeg
+
+# Allow comparison images for the report
+!Comparison-1.png
+!Comparison-2.png
